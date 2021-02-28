@@ -1,0 +1,16 @@
+doskey/history>commands-1.txt
+cd Desktop
+doskey/history>commands-1.txt
+git ho
+git -- version
+dir
+cls
+doskey/history>commands-1.txt
+gcc --v
+cls
+jfggf
+gjfkgjg
+fnbjg
+fjg
+fjgjfog
+doskey/history>commands-1.txt
